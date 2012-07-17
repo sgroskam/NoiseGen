@@ -1,0 +1,3 @@
+Sorry about the lack of comments, I wrote this over a year ago and I was a lazy commenter. Anyway, the noise is
+initialized with the constructor, while calling Noise.GetHeight() returns the generated z-value for whichever
+(x,y) the class members are currently set to. 
